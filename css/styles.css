@@ -1,5 +1,16 @@
-.col-lg-7 h4 {
+.row .link_text a {
+  display: block;
+}
+
+.jumbotron {
+  background-color: #f9f9f9;
+  color: black;
   padding: 2px;
-  border: 1px solid #a3bfb1;
-  background-color:#cef2e0;
+  border: 2px solid #ddd;
+}
+
+.container {
+  padding: 0px;
+  height: auto;;
+  margin-left: 0px;
 }
